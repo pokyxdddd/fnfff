@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KB_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				103
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "KB_DanceLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				112
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "KB_DanceRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				265
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KB_Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				90
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "KB_idleTired",
+			"indices": []
+		},
+		{
+			"offsets": [
+				125,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KB_Right"
+		},
+		{
+			"offsets": [
+				-94,
+				250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KB_Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robot",
+	"position": [
+		-50,
+		170
+	],
+	"healthicon": "kb",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		360,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

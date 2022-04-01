@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Angry Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry Left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angry Down Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry Up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry Right pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/morehdsenpai angy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "morehdsenpaiangy",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		169,
+		111
+	],
+	"camera_position": [
+		140,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

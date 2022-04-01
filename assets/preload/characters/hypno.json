@@ -1,0 +1,108 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Final Hypno Down"
+		},
+		{
+			"offsets": [
+				-89,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Hypno Up"
+		},
+		{
+			"offsets": [
+				-338,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Hypno Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Hypno Idle 1"
+		},
+		{
+			"offsets": [
+				144,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Hypno Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-312,
+				22
+			],
+			"anim": "psyshock",
+			"fps": 24,
+			"name": "Psyshock Full",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-940,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "psyshock particle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Full Psyshock Particle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hypno Phase 1 Sheet",
+	"position": [
+		-340,
+		20
+	],
+	"healthicon": "hypno",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		223,
+		68
+	],
+	"camera_position": [
+		180,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
